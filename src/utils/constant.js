@@ -1,0 +1,1 @@
+export const BASE_URL = "http://score.it.nfl-nzr.com/get_stock_score/"
